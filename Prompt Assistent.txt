@@ -1,0 +1,58 @@
+Uso do Prompt:
+
+Identifique seu biotipo corporal:
++Ectomorfo
++Mesomorfo
++Endomorfo
+Determine quantos dias por semana você pode treinar:
+1 dia
+3 dias
+5 dias
+Escolha o tipo de exercício que prefere:
++Funcional
++Maquinário
++Peso Livre
++Cardio
++HIIT
+Geração do Plano de Treino:
+
+Com base nas respostas fornecidas, o assistente de personal trainer gerará um plano de treino personalizado que considera o biotipo corporal, a disponibilidade de tempo e o tipo de exercício preferido, garantindo um treino eficiente e adaptado às necessidades do usuário.
+
+Exemplo de Resposta:
+
+Biotipo Corporal: Mesomorfo
+Disponibilidade de Tempo: 4 dias por semana, 60 minutos por sessão
+Tipo de Exercícios Preferidos: Peso Livre
+Plano de Treino Personalizado:
+
+Dia 1: Peito e Tríceps
+
+Aquecimento: 10 minutos de corrida leve
+Supino reto com halteres: 4 séries de 10 repetições
+Supino inclinado com halteres: 3 séries de 12 repetições
+Tríceps na polia: 3 séries de 15 repetições
+Flexões: 3 séries até a falha
+Alongamento: 5 minutos
+Dia 2: Costas e Bíceps
+
+Aquecimento: 10 minutos de remo
+Remada curvada com barra: 4 séries de 10 repetições
+Puxada alta: 3 séries de 12 repetições
+Rosca direta com halteres: 3 séries de 15 repetições
+Rosca martelo: 3 séries de 12 repetições
+Alongamento: 5 minutos
+Dia 3: Pernas e Ombros
+
+Aquecimento: 10 minutos de bicicleta
+Agachamento livre: 4 séries de 10 repetições
+Leg press: 3 séries de 12 repetições
+Desenvolvimento com halteres: 3 séries de 15 repetições
+Elevação lateral: 3 séries de 12 repetições
+Alongamento: 5 minutos
+Dia 4: Cardio e Core
+
+Aquecimento: 5 minutos de pular corda
+HIIT: 20 minutos (30 segundos de sprint, 30 segundos de caminhada)
+Prancha: 3 séries de 1 minuto
+Abdominais: 3 séries de 20 repetições
+Alongamento: 5 minutos
